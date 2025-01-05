@@ -1,1 +1,1 @@
-# aws-s3-backup-tool
+# AWS S3 Buckets Backup Automation using a python script, Resource creation using Terraform
